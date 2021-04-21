@@ -19,12 +19,12 @@
       <div style="margin-top:130px" class="container">
         <a href="#main-nav" class="h5 open-menu"><i style="color:#fff; position: relative; bottom:120px; cursor:pointer;" class="fa fa-bars fa-2x fa-fw"></i></a>
         <a href="#" class="h5 close-menu"><i style="color:#fff; position: relative; bottom:120px; cursor:pointer;" class="fa fa-times fa-2x fa-fw"></i></a>
-        <h1>I'm Tim</h1>
+        <h1>I'm Md Deluair Hossen</h1>
         <div class="spacer"></div>
-        <h1>Designer + Developer</h1>
+        <h1>Economist + Data Analyst</h1>
         <div class="spacer"></div>
         <hr><hr>
-        <h2 class="text-center">I build awesome web apps</h2>
+        <h2 class="text-center">I analyze international trade with data anylysis tools </h2>
       </div>
     </div>
 
@@ -40,7 +40,7 @@
         <div class="col-md-8">
           <div class="well">
             <h3>Tim Robert-Fitzgerald</h3>
-            <p>I'm a Chicago based freelance full-stack web developer and I would love to help you with your project. Currently, I do all web related jobs and specialize in HTML5/CSS3, PHP, SQL. I can build any website, from huge dynamic apps to small static sites, on any budget. See my work below.</p>
+            <p>I'm a ....</p>
             <p><a href="#form" class="btn btn-default">Hire me</a></p>
           </div>
         </div>
@@ -89,8 +89,8 @@
         </div>
         <div class="col-md-4">
           <div class="well">
-            <h3>I Build Great Websites</h3>
-            <p>Being a full stack developer, I can develop any website from a database driven web app to a small static site. Every custom website built uses higher grade techniques and is fast, mobile friendly, scalable.</p>
+            <h3>I Build ...</h3>
+            <p>Being a full .....</p>
           </div>
         </div>
       </div><!--/.row-->
@@ -100,19 +100,19 @@
         <div class="row">
           <div class="col-md-3">
             <h3><i class="fa fa-code"></i>&nbsp; Beautiful Code</h3>
-            <p>I write clean, semantic, organized, and valid markup that eliminates excess code and allows others to easily understand and therfore update content in the future.</p>
+            <p>I write .....</p>
           </div>
           <div class="col-md-3">
             <h3><i class="fa fa-fighter-jet"></i>&nbsp; Fast</h3>
-            <p>I build fast and efficient web sites. Fast websites always attract more visitors, and those visitors are more likely to choose you over the competition. In addition, website speed is essential for <abbr title="Search Engine Optimization">SEO</abbr> &mdash; <a href="http://moz.com/blog/how-website-speed-actually-impacts-search-ranking">faster websites rank higher</a>.</p>
+            <p>I ....</p>
           </div>
           <div class="col-md-3">
             <h3><i class="fa fa-arrows-alt"></i>&nbsp; Responsive</h3>
-            <p>Responsive web design means that your website will work on any screen size, from desktops to mobile phones alike. Having a website that works well across all devices and screen sizes means your website has a broader reach, appealing to more visitors.</p>
+            <p>.......</p>
           </div>
           <div class="col-md-3">
             <h3><i class="fa fa-bolt"></i>&nbsp; Powerful</h3>
-            <p>From a static single page website to a full fledged database driven web app, I build websites that give your organization the potential to succeed.</p>
+            <p>......</p>
           </div>
         </div><!--/.row-->
       </div><!--/.container-->
@@ -123,25 +123,25 @@
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="well">
             <h3><i class="fa fa-code"></i>&nbsp; Beautiful Code</h3>
-            <p>I write clean, semantic, organized, and valid markup that eliminates excess code and allows others to easily understand and therfore update content in the future.</p>
+            <p>I write ....</p>
           </div>
         </div>
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="well">
             <h3><i class="fa fa-fighter-jet"></i>&nbsp; Fast</h3>
-            <p>I build fast and efficient web sites. Fast websites always attract more visitors, and those visitors are more likely to choose you over the competition. In addition, website speed is essential for <abbr title="Search Engine Optimization">SEO</abbr> &mdash; <a href="http://moz.com/blog/how-website-speed-actually-impacts-search-ranking">faster websites rank higher</a>.</p>
+            <p>I build ....</p>
           </div>
         </div>
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="well">
             <h3><i class="fa fa-arrows-alt"></i>&nbsp; Responsive</h3>
-            <p>Responsive web design means that your website will work on any screen size, from desktops to mobile phones alike. Having a website that works well across all devices and screen sizes means your website has a broader reach, appealing to more visitors.</p>
+            <p>Responsive ....</p>
           </div>
         </div>
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="well">
             <h3><i class="fa fa-bolt"></i>&nbsp; Powerful</h3>
-            <p>From a static single page website to a full fledged database driven web app, I build websites that give your organization the potential to succeed.</p>
+            <p>From a.....</p>
           </div>
         </div>
       </div><!--/.row-->
@@ -150,26 +150,7 @@
 
     <div class="section" id="work"><h1>Recent Work</h1><hr></div>
 
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="well">
-            <a href="http://teamflightbasketball.com"><img src="http://timothy.expert/codepen-resources/teamflightbasketball.png" alt="teamflightbasketball.com" height="150px" class="pull-left" style="padding-right: 15px; padding-bottom: 10px; padding-top:20px;"></a>
-            <h3>Team Flight Basketball</h3>
-            <p>A website for the youth basketball organization, Team Flight Basketball</p>
-            <div class="spacer"></div><div class="spacer"></div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="well">
-            <a href="http://givingshops.com"><img src="http://timothy.expert/codepen-resources/givingshops.png" alt="GivingShops.com" height="150px" class="pull-left" style="padding-right: 15px; padding-bottom: 10px; padding-top:20px;"></a>
-            <h3>GivingShops</h3>
-            <p>An organization that aims to help people earn for their causes, just by shopping.</p>
-            <div class="spacer"></div><div class="spacer"></div>
-          </div>
-        </div>
-      </div><!--/.row-->
-    </div><!--/.container-->
+   
 
 
     <!--<div class="hidden-xs"><div class="work-together" id="contact">LETS WORK TOGETHER</div></div>-->
