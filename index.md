@@ -34,12 +34,12 @@
       <div class="row">
         <div class="col-md-4">
           <div class="well">
-            <img src="http://timothy.expert/codepen-resources/person_laptop.jpg" style="height:100%; width:100%">
+            <img src="http://" style="height:100%; width:100%">
           </div>
         </div>
         <div class="col-md-8">
           <div class="well">
-            <h3>Tim Robert-Fitzgerald</h3>
+            <h3>Md Deluair Hossen</h3>
             <p>I'm a ....</p>
             <p><a href="#form" class="btn btn-default">Hire me</a></p>
           </div>
@@ -196,13 +196,13 @@
           </div><!--/.col-->
           <div class="col-lg-4 col-md-4 hidden-sm hidden-xs">
             <h3>Contact Details</h3><div class="spacer"></div>
-            <p class="lead" style="margin-bottom:0px;"><i class="fa fa-map-marker"></i>&nbsp; 6519 N. Fairfield Avenue</p><p class="lead" style="text-indent:24px">Chicago, IL, 60645</p>
-            <p class="lead"><i class="fa fa-phone"></i>&nbsp; 312 576-9620</p>
-            <p class="lead"><i class="fa fa-envelope"></i>&nbsp; contact@timothy.expert</p>
+            <p class="lead" style="margin-bottom:0px;"><i class="fa fa-map-marker"></i>&nbsp; .....</p><p class="lead" style="text-indent:24px">......</p>
+            <p class="lead"><i class="fa fa-phone"></i>&nbsp; .....</p>
+            <p class="lead"><i class="fa fa-envelope"></i>&nbsp; ......</p>
           </div>
         </div><!--/.row-->
       </div><!--/.container-->
-      <div class="container hidden-sm hidden-xs"><div class="spacer"></div><div class="spacer"></div><footer><p class="pull-right">Made in Chicago by Tim</p></footer></div>
+      <div class="container hidden-sm hidden-xs"><div class="spacer"></div><div class="spacer"></div><footer><p class="pull-right">Made in ....</p></footer></div>
     </div><!--/.work-together-->
 
   </div><!--/.page-wrap-->
